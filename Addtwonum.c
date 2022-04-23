@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main
+void main()
 {
     int a,b;
     int sum=0;
@@ -10,7 +10,7 @@ void main
     scanf("%d",&b);
     
     sum=a+b;
-    printf("The sum of two numbers is==> %d",sum;
+    printf("The sum of two numbers is==> %d",sum);
     
     return 0;
 }
